@@ -1,0 +1,21 @@
+# Virtual environment
+apienv/
+
+# Compiled Python files
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+__pycache__/
+env/
+bin/
+lib/
+
+# Log files
+*.log
+
+# Environment variables file (if using .env)
+.env
